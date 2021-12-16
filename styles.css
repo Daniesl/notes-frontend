@@ -1,0 +1,50 @@
+
+.title {
+    display: inline-block;
+    margin-bottom: 40px;
+    margin-left: 50px;
+}
+
+#text{
+    display: inline-block; 
+    margin-left: 50px;
+    border: 2px dashed rgb(0, 0, 0);
+    background-color: transparent;
+}
+/* div{
+    text-align: center;
+} */
+.p{
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+}
+#title{
+    margin-bottom: 0.7%;
+    border: 2px dashed rgb(0, 0, 0);
+    background-color: transparent;
+}
+#button{
+    margin-left: 2.66%;
+    margin-bottom: 10px;
+}
+table{
+    margin-left: 2.59%;
+    border: 1px solid rgb(0, 0, 0);
+    
+}
+tr{
+    border: 1px solid rgb(0, 0, 0);
+}
+td{
+    border: 1px solid rgb(0, 0, 0);
+}
+th{
+    border: 1px solid rgb(0, 0, 0);
+}
+html {
+    background-image: url("SpiralNotebookInside.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+   }
+   
